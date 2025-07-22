@@ -17,6 +17,7 @@ public class StringAPIExamples {
 		System.out.println("Character at 5th index is: "+ch2);
 		System.out.println("Character at 11th index is: "+ch3);
 		System.out.println("Character at 20th index is: "+ch4);
+		System.out.println("Character at 20th index is: "+ch4);
 	}
 
 	public static void stringEmptyMethodUsage(){
